@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.4](https://github.com/federicobarera/changelog-exp/compare/v1.1.3...v1.1.4) (2019-11-22)
+
+
+### Bug Fixes
+
+* 123 ([f079eaa](https://github.com/federicobarera/changelog-exp/commit/f079eaa7a3f2a230f65424ec1658cabb8b20c71c))
+
 ### [1.1.3](https://github.com/federicobarera/changelog-exp/compare/v1.1.2...v1.1.3) (2019-11-22)
 
 ### [1.1.2](https://github.com/federicobarera/changelog-exp/compare/v1.1.1...v1.1.2) (2019-11-22)
